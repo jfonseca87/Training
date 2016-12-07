@@ -1,0 +1,42 @@
+﻿@model ET.Persona
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edita Persona</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("editaPersona", "Persona", FormMethod.Post))
+        {
+            @Html.HiddenFor(p => p.IdPersona)
+            <table>
+                <tr>
+                    <td> Documento: </td>
+                    <td> @Html.TextBoxFor(p => p.DocPersona)</td>
+                </tr>
+                <tr>
+                    <td> Nombres: </td>
+                    <td> @Html.TextBoxFor(p => p.NomPersona)</td>
+                </tr>
+                <tr>
+                    <td> Apellidos: </td>
+                    <td> @Html.TextBoxFor(p => p.ApePersona)</td>
+                </tr>
+                <tr>
+                    <td> Edad: </td>
+                    <td> @Html.TextBoxFor(p => p.Edad)</td>
+                </tr>
+                <tr>
+                    <td rowspan="2"> <input type="submit" name="guardar" value="Editar" /> </td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

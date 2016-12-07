@@ -1,0 +1,47 @@
+﻿@model List<PruebaWBootstrap_Table.Models.Empleado>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/dataTables.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container table-responsive">
+        <table id="myTable" class="table table-hover table-bordered">
+            <thead>
+                <tr class="danger">
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Pais</th>
+                    <th>Salario</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Nombre</td>
+                        <td>@item.Pais</td>
+                        <td>@item.Salario</td>
+                    </tr>
+                }
+            </tbody>
+        </table> 
+    </div>
+</body>
+</html>
+
+<script src="~/Assets/js/jquery.js"></script>
+<script src="~/Assets/js/bootstrap.min.js"></script>
+<script src="~/Assets/js/jquery.dataTables.min.js"></script>
+<script src="~/Assets/js/logic.js"></script>
+

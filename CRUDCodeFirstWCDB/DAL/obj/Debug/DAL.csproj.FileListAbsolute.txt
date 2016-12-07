@@ -1,0 +1,24 @@
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.dll.config
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\ET.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\ET.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.dll.config
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\DAL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\ET.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\DAL\obj\Debug\DAL.pdb

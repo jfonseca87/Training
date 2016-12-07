@@ -1,0 +1,44 @@
+﻿@model MVCwWCF.WCFPersonaReference.Persona
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>nuevaPersona</title>
+</head>
+<body>
+    <div>
+        @using(Html.BeginForm("nuevaPersona", "Persona"))
+        {
+            <table>
+                <tr>
+                    <td>Documento:</td>
+                    <td>@Html.TextBoxFor(p => p.DocPersona)</td>
+                </tr>
+                <tr>
+                    <td>Nombres:</td>
+                    <td>@Html.TextBoxFor(p => p.NomPersona)</td>
+                </tr>
+                <tr>
+                    <td>Apellidos:</td>
+                    <td>@Html.TextBoxFor(p => p.ApePersona)</td>
+                </tr>
+                <tr>
+                    <td>Edad:</td>
+                    <td>@Html.TextBoxFor(p => p.Edad)</td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <input type="submit" name="Guardar" value="Guardar" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

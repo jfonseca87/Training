@@ -1,0 +1,42 @@
+﻿@model List<CorreosPruebas.Models.Correos>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ObtenerCorreos</title>
+</head>
+<body>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        Correos Asunto
+                    </th>
+                    <th>
+                        Mensaje
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+               @foreach (var item in Model)
+               {
+                   <tr>
+                       <td>
+                           @item.Asunto
+                       </td>
+                       <td>
+                           @item.Cuerpo
+                       </td>
+                   </tr> 
+               }
+            </tbody>
+            
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCwWCF", "MVCwWCF\MVCwWCF.csproj", "{5FCB7C65-BF8B-4304-8EE5-BFA100700C45}"
+	ProjectSection(ProjectDependencies) = postProject
+		{16A2679E-4E85-40F0-8919-DBBDE0E20788} = {16A2679E-4E85-40F0-8919-DBBDE0E20788}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfPersona", "WcfPersona\WcfPersona.csproj", "{16A2679E-4E85-40F0-8919-DBBDE0E20788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCB7C65-BF8B-4304-8EE5-BFA100700C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCB7C65-BF8B-4304-8EE5-BFA100700C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCB7C65-BF8B-4304-8EE5-BFA100700C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCB7C65-BF8B-4304-8EE5-BFA100700C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A2679E-4E85-40F0-8919-DBBDE0E20788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A2679E-4E85-40F0-8919-DBBDE0E20788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A2679E-4E85-40F0-8919-DBBDE0E20788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A2679E-4E85-40F0-8919-DBBDE0E20788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

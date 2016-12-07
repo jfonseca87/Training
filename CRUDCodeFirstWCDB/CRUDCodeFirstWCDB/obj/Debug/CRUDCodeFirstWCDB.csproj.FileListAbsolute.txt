@@ -1,0 +1,82 @@
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.dll.config
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\BL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\ET.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.WebRequest.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\DAL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\BL.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\ET.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.WebRequest.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\DAL.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.dll.config
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\CRUDCodeFirstWCDB.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\BL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.SqlServer.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\ET.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Microsoft.Web.Infrastructure.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Newtonsoft.Json.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.Formatting.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.WebRequest.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Helpers.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.WebHost.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Mvc.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Razor.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Deployment.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Razor.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\DAL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\BL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\EntityFramework.SqlServer.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\Newtonsoft.Json.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.Formatting.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Net.Http.WebRequest.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Helpers.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Http.WebHost.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Mvc.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.Razor.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Deployment.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\System.Web.WebPages.Razor.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\bin\DAL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.csprojResolveAssemblyReference.cache
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\CRUDCodeFirstWCDB\obj\Debug\CRUDCodeFirstWCDB.pdb

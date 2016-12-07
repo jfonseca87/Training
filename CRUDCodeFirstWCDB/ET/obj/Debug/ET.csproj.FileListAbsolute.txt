@@ -1,0 +1,20 @@
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\ET.dll.config
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\ET.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\ET.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\obj\Debug\ET.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\obj\Debug\ET.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\ET\obj\Debug\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\ET.dll.config
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\ET.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.SqlServer.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\bin\Debug\EntityFramework.SqlServer.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\obj\Debug\ET.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\obj\Debug\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\ET\obj\Debug\ET.csprojResolveAssemblyReference.cache

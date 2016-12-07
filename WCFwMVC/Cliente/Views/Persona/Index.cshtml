@@ -1,0 +1,43 @@
+﻿@model List<Cliente.DataService.Persona>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container"> 
+        <table class="table table-bordered table-condensed table-hover">
+            <thead>
+                <tr>
+                    <th> Documento </th>
+                    <th> Nombres </th>
+                    <th> Apellido </th>
+                    <th> Edad </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var persona in Model)
+                {
+                    <tr>
+                        <td>@persona.DocPersona</td>
+                        <td>@persona.NomPersona</td>
+                        <td>@persona.ApePersona</td>
+                        <td>@persona.Edad</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

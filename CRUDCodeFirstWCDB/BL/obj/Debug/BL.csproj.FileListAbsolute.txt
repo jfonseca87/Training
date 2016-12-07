@@ -1,0 +1,23 @@
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\BL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\BL.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\DAL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\ET.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\DAL.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\ET.pdb
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\obj\Debug\BL.dll
+C:\inetpub\wwwroot\CRUDCodeFirstWCDB\BL\obj\Debug\BL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\BL.dll.config
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\BL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\BL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\DAL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\ET.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\EntityFramework.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\DAL.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\ET.pdb
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\bin\Debug\EntityFramework.xml
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\obj\Debug\BL.dll
+D:\jlfr\Mis Documentos ( Local )\Visual Studio 2013\Projects\CRUDCodeFirstWCDB\BL\obj\Debug\BL.pdb

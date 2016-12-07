@@ -1,0 +1,10 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\WcfPersona.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\WcfPersona.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\WcfPersona.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\bin\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\obj\Debug\WcfPersona.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\obj\Debug\WcfPersona.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\MVCwWCF\WcfPersona\obj\Debug\WcfPersona.pdb

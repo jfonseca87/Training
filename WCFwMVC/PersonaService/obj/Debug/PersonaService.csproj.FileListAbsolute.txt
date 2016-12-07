@@ -1,0 +1,10 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\obj\Debug\PersonaService.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\PersonaService.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\PersonaService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\PersonaService.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\bin\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\obj\Debug\PersonaService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\WCFwMVC\PersonaService\obj\Debug\PersonaService.pdb
