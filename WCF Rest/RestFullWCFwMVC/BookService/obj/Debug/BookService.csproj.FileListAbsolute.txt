@@ -1,0 +1,20 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\BookService.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\BookService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\BookService.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\bin\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\obj\Debug\BookService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\RestFullWCFwMVC\BookService\obj\Debug\BookService.pdb
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\BookService.dll.config
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\BookService.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\BookService.pdb
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\EntityFramework.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\EntityFramework.SqlServer.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\EntityFramework.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\bin\EntityFramework.SqlServer.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\obj\Debug\BookService.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\RestFullWCFwMVC\BookService\obj\Debug\BookService.pdb

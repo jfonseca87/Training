@@ -1,0 +1,110 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\ConsumerService.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\ConsumerService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\ConsumerService.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Antlr3.Runtime.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Core.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Cookies.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Facebook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Google.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.OAuth.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Twitter.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Web.Infrastructure.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Newtonsoft.Json.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Owin.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Helpers.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Mvc.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Optimization.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Razor.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.Deployment.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.Razor.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\WebGrease.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Helpers.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Mvc.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Optimization.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.Razor.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.Deployment.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\System.Web.WebPages.Razor.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Antlr3.Runtime.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Newtonsoft.Json.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Core.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Facebook.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Cookies.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.OAuth.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Google.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Twitter.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\obj\Debug\ConsumerService.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\obj\Debug\ConsumerService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\ConsumerService\ConsumerService\obj\Debug\ConsumerService.pdb
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\ConsumerService.dll.config
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\ConsumerService.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\ConsumerService.pdb
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Antlr3.Runtime.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\EntityFramework.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\EntityFramework.SqlServer.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Newtonsoft.Json.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Owin.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Helpers.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Mvc.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Optimization.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Razor.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.Razor.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\WebGrease.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Helpers.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Mvc.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Optimization.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.Razor.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\System.Web.WebPages.Razor.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Antlr3.Runtime.pdb
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Newtonsoft.Json.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\EntityFramework.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\EntityFramework.SqlServer.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\obj\Debug\ConsumerService.csprojResolveAssemblyReference.cache
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\obj\Debug\ConsumerService.dll
+C:\Users\JORGE-PC\Desktop\WCF Rest\ConsumerService\ConsumerService\obj\Debug\ConsumerService.pdb

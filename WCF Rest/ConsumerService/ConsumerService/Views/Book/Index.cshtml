@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tickets</h2>
+<hr />
+<div class="container">
+    <div class="col-xs-12">
+        <a href="@Url.Action("NewBook", "Book")" class="btn btn-danger">New Book</a>
+    </div>
+    <br />
+    <div class="col-xs-10">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th> Book ID </th>
+                    <th> Title </th>
+                    <th> ISBN </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="content"></tbody>
+        </table>
+    </div>
+</div>
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/logic.js"></script>
