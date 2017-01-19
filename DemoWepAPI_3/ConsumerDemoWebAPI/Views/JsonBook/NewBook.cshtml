@@ -1,0 +1,61 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Assets/css/bootstrap-table.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>NewBook</title>
+</head>
+<body>
+    <div class="container">
+        <h2>New Book </h2>
+        @using (Html.BeginForm("NewBook", "JsonBook", FormMethod.Post, new { id = "formNewBook"}))
+        {
+            <div class="form-group">
+                <label>Title: </label>
+                <input type="text" name="Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>ISBN: </label>
+                <input type="text" name="ISBN" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" name="btnGuardar" value="Guardar" class="btn btn-danger" />
+            </div>
+        }
+    </div>
+</body>
+</html>
+
+
+<script src="~/Assets/js/jquery.js"></script>
+<script src="~/Assets/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#formNewBook").submit(function (e) {
+            e.preventDefault();
+
+            var datos = $(this).serialize();
+
+            $.ajax({
+                url: 'http://localhost:52021/api/book',
+                type: 'POST',
+                contenType: 'application/json',
+                data: datos,
+                success: function (data) {
+                    alert("Se guardo exitosamente!!!");
+                    location.href = "/JsonBook/Index";
+                },
+                error: function (e) {
+                    alert("Ha ocurrido un error!!!");
+                }
+            });
+        });
+    });
+</script>

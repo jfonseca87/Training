@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Assets/css/bootstrap-table.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>NewBook</title>
+</head>
+<body>
+    <div class="container">
+        <h2>New Book </h2>
+        @using (Html.BeginForm("NewBook", "Book", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label>Title: </label>
+                <input type="text" name="Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>ISBN: </label>
+                <input type="text" name="ISBN" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" name="btnGuardar" value="Guardar" class="btn btn-danger" />
+            </div>
+        }
+    </div>
+</body>
+</html>
+
+
+<script src="~/Assets/js/jquery.js"></script>
+<script src="~/Assets/js/bootstrap.min.js"></script>

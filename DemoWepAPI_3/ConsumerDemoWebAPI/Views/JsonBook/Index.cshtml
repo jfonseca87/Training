@@ -1,0 +1,128 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap-table.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <br />
+    <div class="container">
+        <h2>Books</h2>
+    </div>
+    <hr />
+    <div class="container">
+        <a href="@Url.Action("NewBook", "JsonBook")" class="btn btn-danger">New Book</a>
+        <table class="table table-hover" id="table" data-search="true" data-pagination="true" data-locale="es-MX">
+        </table>
+    </div>
+</body>
+</html>
+
+<script src="~/Assets/js/jquery.js"></script>
+<script src="~/Assets/js/bootstrap.min.js"></script>
+<script src="~/Assets/js/bootstrap-table.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        //$.ajax({
+        //    url: 'http://localhost:52021/api/book',
+        //    type: 'GET',
+        //    accept: 'application/json',
+        //    success: function (data) {
+        //        $.each(data, function (k, v) {
+        //            $("#container").append(
+        //                '<tr><td>'+ v.BookId +'</td><td>'+ v.Title +'</td><td>'+ v.ISBN +'</td><td></td></tr>'
+        //            );
+        //        });
+        //    },
+        //    error: function (e) {
+        //        alert("Ha ocurrido un error!!!");
+        //    }
+        //});
+
+        $("#table").bootstrapTable({
+            url: 'http://localhost:52021/api/book',
+            columns: [
+            {
+                field: 'BookId',
+                title: 'BookId'
+            },
+            {
+                field: 'Title',
+                title: 'Title'
+            },
+            {
+                field: 'ISBN',
+                title: 'ISBN'
+            }
+            ]
+        });
+
+        var bookId = 0;
+
+        $("#table").on("post-body.bs.table", function () {
+
+            $("tbody tr").each(function (k, v) {
+                $(this).children("td").each(function (k, v) {
+                    switch (k)
+                    {
+                        case 0: bookId = $(v).html();
+                    }
+                });
+
+                $(this).append(
+                    '<td><a href="javascript:void();" class="classEdit" data-id="' + bookId + '">Edit</a> | <a href="javascript:void();" class="classDelete" data-id="' + bookId + '">Delete</a></td>'
+                );
+            });
+        })
+
+        $("#table").on("click", ".classEdit", function () {
+            
+            var id = $(this).data("id");
+
+            $.ajax({
+                url: 'http://localhost:52021/api/book/' + id,
+                type: 'GET',
+                accept: 'application/json',
+                success: function (data) {
+                    location.href = 'http://localhost:50300/JsonBook/EditBook?BookId=' + data.BookId + '&Title=' + data.Title + '&ISBN=' + data.ISBN;
+                },
+                error: function (e) {
+                    alert("Ha ocurrido un error!!!");
+                }
+            });
+
+        });
+
+        $("#table").on("click", ".classDelete", function () {
+
+            var id = $(this).data("id");
+
+            if (!confirm("Esta seguro(a) de borrar el libro?")) {
+                return false;
+            }
+            else
+            {
+                $.ajax({
+                    url: 'http://localhost:52021/api/book/'+ id,
+                    type: 'DELETE',
+                    contenType: 'application/json',
+                    success: function (data) {
+                        location.href = '/jsonbook/index';
+                    },
+                    error: function (e) {
+                        alert("Ha ocurrido un error!!!");
+                    }
+                });
+            }
+
+        });
+    });
+</script>

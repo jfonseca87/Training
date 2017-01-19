@@ -1,0 +1,55 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\Newtonsoft.Json.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Helpers.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Mvc.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Razor.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Deployment.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Razor.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\Newtonsoft.Json.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Razor.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Deployment.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Razor.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Helpers.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Mvc.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Net.Http.Formatting.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Cors.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.Cors.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Net.Http.Formatting.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.dll.config
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\ConsumerDemoWebAPI.pdb
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Cors.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Helpers.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Mvc.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Razor.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Razor.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Helpers.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\bin\System.Web.Mvc.xml
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.dll
+C:\Users\JORGE-PC\Desktop\DemoWepAPI_3\ConsumerDemoWebAPI\obj\Debug\ConsumerDemoWebAPI.pdb
