@@ -1,0 +1,10 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\obj\Debug\LoginService.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\LoginService.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\LoginService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\LoginService.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\bin\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\obj\Debug\LoginService.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\LoginService\LoginService\obj\Debug\LoginService.pdb

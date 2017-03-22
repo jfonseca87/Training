@@ -1,0 +1,32 @@
+﻿@model ETBook.Book
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit Book</title>
+</head>
+<body>
+    <div align="center">
+        @using (Html.BeginForm("EditBook", "Index", FormMethod.Post))
+        {
+            @Html.HiddenFor(x => Model.BookId)
+            <h2>Nuevo Libro</h2>
+            <table>
+                <tr>
+                    <td>Title:</td>
+                    <td>@Html.TextBoxFor(x => Model.Title)</td>
+                </tr>
+                <tr>
+                    <td>ISBN:</td>
+                    <td>@Html.TextBoxFor(x => Model.ISBN)</td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" name="btnGuardar" value="Guardar" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

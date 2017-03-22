@@ -1,0 +1,10 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\ETBook.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\ETBook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\ETBook.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\bin\Debug\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\obj\Debug\ETBook.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\obj\Debug\ETBook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\ETBook\obj\Debug\ETBook.pdb

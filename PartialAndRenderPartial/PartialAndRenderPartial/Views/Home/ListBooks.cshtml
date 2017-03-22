@@ -1,0 +1,23 @@
+﻿@model List<PartialAndRenderPartial.Models.Book>
+@{
+    
+}
+
+<h2> Books List </h2>
+
+<table width="400px">
+    <tr>
+        <td>Book Id</td>
+        <td>Title</td>
+        <td>ISBN</td>
+        
+    </tr>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.BookId</td>
+            <td>@book.Title</td>
+            <td>@book.ISBN</td>
+        </tr> 
+    }
+</table>

@@ -1,0 +1,12 @@
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\DALBook.dll.config
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\DALBook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\DALBook.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\EntityFramework.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\EntityFramework.SqlServer.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\ETBook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\ETBook.pdb
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\EntityFramework.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\bin\Debug\EntityFramework.SqlServer.xml
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\obj\Debug\DALBook.csprojResolveAssemblyReference.cache
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\obj\Debug\DALBook.dll
+d:\jlfr\mis documentos ( local )\visual studio 2013\Projects\APIBook\DALBook\obj\Debug\DALBook.pdb

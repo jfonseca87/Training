@@ -1,0 +1,29 @@
+﻿@model PartialAndRenderPartial.Models.Book
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div align="center"> 
+        @Html.Partial("ListBooks", (List<PartialAndRenderPartial.Models.Book>)ViewBag.Listado)
+        @using (Html.BeginForm("NewBook", "Home", FormMethod.Post))
+        {
+            <table width="400px">
+                <tr align="right">
+                    <td>ID</td>
+                    <td> @Html.TextBoxFor(x => x.Title, new { title = "Title" }) </td>
+                    <td> @Html.TextBoxFor(x => x.ISBN, new { title = "ISBN" }) </td>
+                    <td> <input type="submit" name="btnGuardar"/></td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>

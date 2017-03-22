@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New Book</title>
+</head>
+<body>
+    <div align="center"> 
+        @using (Html.BeginForm("NewBook", "Index", FormMethod.Post))
+        {
+            <h2>Nuevo Libro</h2>
+            <table>
+                <tr>
+                    <td>Title:</td>
+                    <td><input type="text" name="Title" value="" /></td>
+                </tr>
+                <tr>
+                    <td>ISBN:</td>
+                    <td><input type="text" name="ISBN" value="" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" name="btnGuardar" value="Guardar" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</body>
+</html>
